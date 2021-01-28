@@ -24,7 +24,7 @@ Now it was time for some simple linear regression to find the correlation betwee
 
 ## Social Support vs Max infection rate
 
-![alt text](https://github.com/alizaazizlakho/Covid-19-and-its-effects-on-Life/blob/main/pictures/LR2.pngg)
+![alt text](https://github.com/alizaazizlakho/Covid-19-and-its-effects-on-Life/blob/main/pictures/LR2.png)
 
 ## Healthy Life Expectancy vs Max infection rate
 
